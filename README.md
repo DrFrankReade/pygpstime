@@ -4,6 +4,8 @@ This program uses Python, Tkinter, and pySerial/pynmea2 to connect to a GPS devi
 
 ---
 
+![alt text](https://github.com/DrFrankReade/pygpstime/blob/main/pygpstimescreenshot.jpg)
+
 ## Features
 
 - **High Baud Rate Support**  
